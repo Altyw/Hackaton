@@ -1,0 +1,210 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "marks": "Hyundai",
+      "model": "Sonata",
+      "image": "https://i.cars.kg/preview/r/YqyigQOvmbDRGTzUQkWwKg/1080x-/20230404/5c379838097b71f7d8e85c1c48d8f525.jpg",
+      "year": "2019",
+      "price": "14.500"
+    },
+    {
+      "id": 2,
+      "marks": "Lexus",
+      "model": "ES 300H",
+      "image": "https://i.cars.kg/preview/r/f3r7DmJ14WsF-qvAxpbzfA/1080x-/20230622/76f3cafb6146cd757f73cc0b82bdebb2.jpg",
+      "year": "2018",
+      "price": "39.600"
+    },
+    {
+      "id": 3,
+      "marks": "BMW",
+      "model": "520D",
+      "image": "https://i.cars.kg/preview/r/n0iernZeUf-GX4TdSx_f3w/1080x-/20230319/81c9b582adcfbc94a53d8c959ae4b4d4.jpg",
+      "year": "2017",
+      "price": "35.000"
+    },
+    {
+      "id": 4,
+      "marks": "Honda",
+      "model": "Fit",
+      "image": "https://i.cars.kg/preview/r/SOFRMCoozH-O4B5MMTPHSw/1080x-/20230620/bf458fb773b5a79f335d494c4c8b5bc7.jpg",
+      "year": "2002",
+      "price": "8247"
+    },
+    {
+      "id": 5,
+      "marks": "Nissan",
+      "model": "Sentra B17",
+      "image": "https://i.cars.kg/preview/r/vez1dIHv-DuIrdzLxUphNw/1080x-/20230312/f292e5e1413ac62de86b4c0665889333.jpg",
+      "year": "2017",
+      "price": "14.000"
+    },
+    {
+      "marks": "Toyota",
+      "model": "Camry V70",
+      "year": "2018",
+      "price": "23.800",
+      "image": "https://i.cars.kg/preview/r/nf6CENpe3QeIhULQTxxgiw/1080x-/20230617/b994ad4b76b7b61017dc9d5e3c897417.jpg",
+      "id": 6
+    },
+    {
+      "marks": "Volkswagen",
+      "model": "Polo",
+      "year": "2014",
+      "price": "5154",
+      "image": "https://i.cars.kg/preview/r/S-XDlnPldtQUFHeLUHXrSQ/1080x-/20230607/30535ff214674a46bcdd1a9cce78f5ce.jpg",
+      "id": 7
+    },
+    {
+      "marks": "Subaru",
+      "model": "Outback 5 поколение",
+      "year": "1100",
+      "price": "32.500",
+      "image": "https://i.cars.kg/preview/r/83G8HSze6-sL5HLa6srgPg/1080x-/20230624/3e3db213ef0f1a4333965016382e49f9.jpg",
+      "id": 8
+    },
+    {
+      "marks": "KIA",
+      "model": "K7 1 поколение [рестайлинг]",
+      "year": "2016",
+      "price": "16.300",
+      "image": "https://i.cars.kg/preview/r/Dtw8jPMG-mWX-LiwYpp-SQ/1080x-/20230614/f893318c4f2ae52f5ccb7e1999224fb8.jpeg",
+      "id": 9
+    },
+    {
+      "marks": "Mazda",
+      "model": "Demio 2 поколение",
+      "year": "2004",
+      "price": "4752",
+      "image": "https://i.cars.kg/preview/r/pOpwSx4xG4-UtRegMTrVSg/1080x-/20230609/5ac69c2cd5f81df7c66cbb9854f17746.jpg",
+      "id": 10
+    },
+    {
+      "marks": "Daewoo",
+      "model": "Matiz",
+      "year": "2008",
+      "price": "2175",
+      "image": "https://i.cars.kg/preview/r/syyGT7FnFMrvaYoSL1ysTA/1080x-/20230414/fd7203e47863bb3acf728d603f55159f.jpg",
+      "id": 11
+    },
+    {
+      "marks": "Toyota",
+      "model": "Land Cruiser J200",
+      "year": "2008",
+      "price": "34.700",
+      "image": "https://i.cars.kg/preview/r/7iPzMqVfLm1uI1iQ9hq6cQ/1080x-/20230623/aa3952667e93d719e1ec4445afcd63fa.jpg",
+      "id": 12
+    },
+    {
+      "marks": "Mercedes Benz",
+      "model": "S-Класс W222 / C217",
+      "year": "2014",
+      "price": "44.500",
+      "image": "https://i.cars.kg/preview/r/kIi8ovbOfNKciMQ1__XGRA/1080x-/20230625/330616e995df54f6150b345d7d6340eb.jpg",
+      "id": 13
+    },
+    {
+      "marks": "Lexus",
+      "model": "RX 4 поколение",
+      "year": "2022",
+      "price": "81.000",
+      "image": "https://i.cars.kg/preview/r/7q31p3rd3j-NDz2c9X7Gkw/1080x-/20230202/9b4cdc7f4ebf95e64165d104b4eb6a32.jpg",
+      "id": 14
+    },
+    {
+      "marks": "Dodge",
+      "model": "Challenger",
+      "year": "2017",
+      "price": "55.842",
+      "image": "https://avatars.mds.yandex.net/get-autoru-vos/2154849/edc4097ede06fe5fbcaa3844d01d4b5b/1200x900n",
+      "id": 15
+    },
+    {
+      "marks": "Mercedes Benz",
+      "model": "Sprinter W901-905 [2-й рестайлинг]",
+      "year": "2015",
+      "price": "28.000",
+      "image": "https://i.cars.kg/preview/r/QxMKFzahdCiwqZdFx_zoBQ/1080x-/20230601/5abcea80cbcd59fac764a309590bd5dc.jpeg",
+      "id": 16
+    },
+    {
+      "marks": "Tesla",
+      "model": "Model X P100D",
+      "year": "2016",
+      "price": "82.957",
+      "image": "https://avatars.mds.yandex.net/get-autoru-vos/2175909/45c3c72d20bc822e9d25273566aae87c/1200x900n",
+      "id": 17
+    },
+    {
+      "marks": "Hyundai",
+      "model": "Sonata",
+      "year": "2018",
+      "price": "11.500",
+      "image": "https://i.cars.kg/preview/r/sMaEkIErddwqBVzY-h0Q2A/1080x-/20230626/007aa36de1f03768baf80957d97c728a.jpg",
+      "id": 18
+    },
+    {
+      "marks": "Ford",
+      "model": "Mustang",
+      "year": "2020",
+      "price": "43.318",
+      "image": "https://avatars.mds.yandex.net/get-autoru-vos/2161372/9f56f95b88de18e997084d5da3a23a89/1200x900n",
+      "id": 19
+    },
+    {
+      "marks": "Schevrolet",
+      "model": "Suburban GMT900",
+      "year": "2018",
+      "price": "67.000",
+      "image": "https://i.cars.kg/preview/r/c5CKJ40lgs32azRJ0t2zcg/1080x-/20230618/67a5612b90dc44e1251939ffb2fd4742.jpg",
+      "id": 20
+    },
+    {
+      "marks": "Audi",
+      "model": "R8 V10",
+      "year": "2009",
+      "price": "67.647",
+      "image": "https://avatars.mds.yandex.net/get-autoru-vos/5378895/d8ce91d665e0b3f4d5a7758987f1a603/1200x900n",
+      "id": 21
+    },
+    {
+      "marks": "Mercedes Benz",
+      "model": "CLS AMG 63 S",
+      "year": "2017",
+      "price": "47.000",
+      "image": "https://avatars.mds.yandex.net/get-autoru-vos/2094527/11a892d940d7aa5c7e45fac081eb73f7/1200x900n",
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "name": "Админ",
+      "phone": "12345",
+      "password": "12345",
+      "type": "admin",
+      "id": 1
+    },
+    {
+      "name": "asd",
+      "phone": "123",
+      "password": "123",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "name": "qqwe",
+      "phone": "012",
+      "password": "62",
+      "type": "user",
+      "id": 3
+    },
+    {
+      "name": "ыыыы",
+      "phone": "222222",
+      "password": "22222222",
+      "type": "user",
+      "id": 4
+    }
+  ]
+}
